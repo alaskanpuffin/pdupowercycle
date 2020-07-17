@@ -11,3 +11,5 @@ The script is configured using the following enviroment variables.
 `PDU_USERNAME` - Username to sign into the PDU.
 
 `PDU_PASSWORD` - Password for the above user.
+
+Docker Container Available Here: https://hub.docker.com/r/alaskanpuffin/pdupowercycle
